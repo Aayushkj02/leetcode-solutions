@@ -1,4 +1,4 @@
-//Lweetcode solution for Question: 0169-Majority Element
+//Leetcode solution for Question: 0169-Majority Element
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
