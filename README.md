@@ -9,6 +9,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
@@ -17,6 +18,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -29,5 +31,14 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
