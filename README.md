@@ -41,4 +41,8 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
