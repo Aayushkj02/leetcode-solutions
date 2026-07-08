@@ -38,6 +38,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -58,4 +59,8 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
