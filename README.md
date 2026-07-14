@@ -23,6 +23,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Heap (Priority Queue)
 |  |
@@ -45,6 +46,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | ------- |
 | [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
