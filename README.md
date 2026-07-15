@@ -59,14 +59,17 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +86,8 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
