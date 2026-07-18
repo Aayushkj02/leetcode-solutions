@@ -51,6 +51,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0941-valid-mountain-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +62,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0009-palindrome-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +94,8 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
