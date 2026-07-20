@@ -12,24 +12,19 @@ public:
             }
         }
 
-        while (k--) {
-            int last = arr[arr.size() - 1];
+        int size = arr.size();
+        k = k % size;
+        reverse(arr.begin(), arr.end());
+        reverse(arr.begin(), arr.begin()+k);
+        reverse(arr.begin()+k, arr.end());
 
-            for (int i = arr.size() - 1; i > 0; i--) {
-                arr[i] = arr[i - 1];
-            }
-
-            arr[0] = last;
-        }
-
+        vector<vector<int>> res (m,(vector<int>(n,0)));
         int index = 0;
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                grid[i][j] = arr[index++];
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                res[i][j] = arr[index++];
             }
         }
-
-        return grid;
+        return res;
     }
 };
