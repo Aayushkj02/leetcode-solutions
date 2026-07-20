@@ -51,6 +51,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0867-transpose-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0941-valid-mountain-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
@@ -103,8 +104,10 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
