@@ -20,6 +20,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -42,6 +43,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0136-single-number) |
@@ -80,6 +82,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
