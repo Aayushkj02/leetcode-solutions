@@ -6,7 +6,7 @@ public:
             return "0";
         }
 
-        string res = " ";
+        string res = "";
         for(int num : nums){
             res = res + to_string(num);
         }
