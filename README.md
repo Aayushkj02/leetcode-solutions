@@ -16,6 +16,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -72,6 +73,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
