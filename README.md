@@ -19,6 +19,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0168-excel-sheet-column-title](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0844-backspace-string-compare](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Greedy
@@ -154,4 +157,8 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
