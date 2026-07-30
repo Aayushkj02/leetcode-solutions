@@ -58,6 +58,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -120,6 +121,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0136-single-number) |
 ## Recursion
 |  |
@@ -161,4 +163,8 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
