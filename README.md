@@ -20,6 +20,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0179-largest-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -147,6 +149,7 @@ I am committed to solving 2 problems every day to strengthen my understanding of
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0179-largest-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
 |  |
 | ------- |
