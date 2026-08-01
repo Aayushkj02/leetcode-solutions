@@ -70,6 +70,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [0169-majority-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0575-distribute-candies](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -91,6 +92,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [0009-palindrome-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +102,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -132,6 +135,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
@@ -175,4 +179,8 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0078-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
