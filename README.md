@@ -74,6 +74,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [0575-distribute-candies](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -95,6 +96,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -104,6 +106,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [0070-climbing-stairs](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -183,4 +186,5 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
