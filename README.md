@@ -64,6 +64,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [0018-4sum](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0136-single-number) |
@@ -132,6 +133,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
