@@ -14,6 +14,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [0451-sort-characters-by-frequency](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,6 +84,7 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayushkj02/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
