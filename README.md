@@ -212,8 +212,17 @@ I am committed to solving 1 LeetCode problem every day to strengthen my understa
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [3310-remove-methods-from-project](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aayushkj02/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aayushkj02/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
