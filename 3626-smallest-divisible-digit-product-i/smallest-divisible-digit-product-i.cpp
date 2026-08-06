@@ -3,12 +3,11 @@ public:
     int smallestNumber(int n, int t) {
        while(true){
             int mul = 1;
-            int digit = n;
+            int num = n;
 
-            while(digit > 0){
-
-                mul = mul * (digit % 10);
-                digit = digit/10;
+            while(num > 0){
+                mul = mul * (num % 10);
+                num = num/10;
             }
 
             if(mul % t == 0){
