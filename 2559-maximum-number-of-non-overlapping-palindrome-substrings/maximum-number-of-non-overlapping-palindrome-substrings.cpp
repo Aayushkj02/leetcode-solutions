@@ -1,21 +1,20 @@
 class Solution {
 public:
     int maxPalindromes(string s, int k) {
-        int n = s.length();
-        int count = 0, end = -1;
+        int n = s.size(), count = 0;
 
-        for (int center = 0; center < 2 * n - 1; center++) {
-            int left = center / 2;
-            int right = left + center % 2;
+        for(int i=0;i<n;i++){
+            string str1 = "", str2 = "";
+            for(int j=i;j<n;j++){
+                str1 += s[j];
+                str2 = s[j] + str2;
 
-            while (left >= 0 && right < n && s[left] == s[right]) {
-                if (right - left + 1 >= k && left > end) {
+                if(str1.size() >= k && str2==str1){
                     count++;
-                    end = right;
+                    i=j;
                     break;
                 }
-                left--;
-                right++;
+                if(str1.size()>k) break;
             }
         }
 
