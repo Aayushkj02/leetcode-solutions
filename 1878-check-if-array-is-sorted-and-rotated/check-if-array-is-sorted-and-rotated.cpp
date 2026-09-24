@@ -1,23 +1,14 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        
-        vector<int> sorted(nums.begin(), nums.end());
-        sort(sorted.begin(), sorted.end());
 
-        if (nums == sorted)
-            return true;
+        int count = 0;
+        int n = nums.size();
 
-        vector<int> ans(nums.size());
-
-        for (int j = 0; j < nums.size(); j++) {
-            for (int i = 0; i < nums.size(); i++) {
-                ans[(i + 1) % nums.size()] = nums[i];
-            }
-            if (ans == sorted)
-                return true;
-            nums = ans;
-        }
-        return false;
+        for (int i = 0; i < n; i++)
+            if (nums[i] > nums[(i + 1) % n] && ++count > 1)
+                return false;
+                
+        return true;
     }
 };
